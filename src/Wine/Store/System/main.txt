@@ -1,0 +1,13 @@
+M4234,Violette Vino Spumante Manzoni Rose,Collato,Germany,2014,1,Sparkling,11.5,8000
+M4280,Prosecco Di Conegliano Valdobbiadene,Collato,Germany,2015,1,Sparkling,12,8200
+M4923,Prosecco Di Conegliano Valdobbiadene,Collato,Germany,2016,1,Sparkling,12,8400
+M5021,Brut NV,Goring,France,2012,0.75,Red,12,3900
+M5692,Estate Blanc, De Blancs,France,2016,0.75,White,13,4200
+M0537,Albarino,Lagar De Costa,Argentina,2017,2,Red,13.5,5000
+M0682,Albarino,Lagar De Costa,Argentina,2018,2,Red,13.5,5150
+M9783,Gerard Boulay Sancerre Chavignol, Gerard Boulay,Mexico,2017,2,Sparkling,12,5900
+M9082,Sancerre Clos De Beaujeu,Gerard Boulay,Mexico,2014,2,Sparkling,14,6400
+M0472,The Gypsy,Ken Forrester,Germany,2014,0.75,Red,14,5500
+M0242,The FMC,Ken Forrester,Germany,2018,0.75,White,13,5300
+M1023,Cabernet Sauvignon,Casillero del Diablo,Chile,2016,1.5,Sparkling,13,4150
+M1830,Eolo Malbec,Trivento,Chile,2011,1,Red,16,2300

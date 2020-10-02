@@ -1,0 +1,15 @@
+M2496,Don Melchor Cabernet,Concha Y Toro,Chile,2013,0.75,Red,14.5,2300
+M3457,Don Melchor Cabernet,Concha Y Toro,Chile,2016,1,White,12.5,3000
+M8938,Castillero Cabernet,Concha Y Toro,Chile,2018,0.75,Red,15,2200
+M8902,Cabernet Sauvignon,Casillero del Diablo,Chile,2015,11.5,Sparkling,13,4000
+M0598,Eolo Malbec,Trivento,Chile,2012,1,Red,16,2400
+M9820,Amano Rosato,A MANO,Argentina,2018,0.75,Red,13,2200
+M9360,Amano Bianco,A MANO,Argentina,2017,0.75,White,12.5,2100
+M9712,Gerard Boulay Sancerre Chavignol, Gerard Boulay,Mexico,2018,2,Sparkling,13,6000
+M9731,Sancerre Clos De Beaujeu,Gerard Boulay,Mexico,2017,2,Sparkling,14,6500
+M8274,St.George Ecclesiastical Commandaria Wine,Keo,Benin,2012,0.75,Red,14.5,4000
+M9821,St.John Commandaria Cypriot Wine,Keo,Benin,2013,0.75,White,15,4200
+M8012,Soave Classico,Peiropan,Georgia,2017,1.5,CanadaWhite,12,2300
+M8039,Soave Classico,Periopan,2018,Georgia,1.5,CanadaWhite,12.5,2350
+M0156,Essensia Orange Muscat,Muscat,Georgia,2016,0.75,Red,15,2700
+M0582,Elysium Black Muscat,Muscat,Georgia,2017,0.75,Red,15,2800
